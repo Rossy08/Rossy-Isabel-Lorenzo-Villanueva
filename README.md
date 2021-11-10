@@ -8,7 +8,7 @@
     [plugins.inputs]
  
     # The base url of your site (optional, default = main URL set in Netlify)
-    baseUrl = "https://rossy-lorenzo-c3ab65.netlify.app/"
+    baseUrl = "https://example.com"
  
     # Path to the sitemap URL (optional, default = /sitemap.xml)
     sitemapPath = "/sitemap.xml"
@@ -18,4 +18,4 @@
         "google",
         "bing",
         "yandex"
-]
+    ]
